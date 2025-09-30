@@ -29,55 +29,44 @@ LICENSE → Project license
 README.md → This file
 
 🚀 Problem Statement
+AI-powered monitoring of crop health, soil condition, and pest risks using multispectral/hyperspectral imaging and sensor data - SIH25099
 
-1)  AI-powered monitoring of crop health, soil condition, and pest risks using 
-multispectral/hyperspectral imaging and sensor data - SIH25099
+💡 <b> Proposed Solution </b>
+<ol>
+<li> AI-powered insights for crop health & soil condition </li>
+<li> Weather-based alerts using IMD APIs </li>
+<li> Community-driven discussions & knowledge sharing </li>
+<li> Simple and accessible UI for farmers </li>
+</ol>
 
-💡 Proposed Solution
 
-AI-powered insights for crop health & soil condition
+🛠️ <b> Tech Stack </b> 
+<ol> 
+<li> Frontend: React.js </li>
+<li> Backend: Node.js / Express </li>
+<li> Database: MongoDB </li>
+<li> APIs: IMD Weather APIs, additional datasets </li>
+<li> AI/ML: Crop & soil prediction models </li>
+</ol>
 
-Weather-based alerts using IMD APIs
+👨‍👩‍👦 <b> Team KriShakti07 </b>
+<ol> 
+<li> Param – UI/UX , Backend & Coordinater </li> 
+<li> Yug – UI/UX & Backend </li> 
+<li> Dishank – Frontend </li>
+<li> Vanshika – Frontend </li>  
+<li> Sneha – Backend & Presentation Support </li>
+<li> Shlok -  Backend & Research </li>
+</ol>
 
-Community-driven discussions & knowledge sharing
 
-Simple and accessible UI for farmers
-
-🛠️ Tech Stack
-
-Frontend: React.js
-
-Backend: Node.js / Express
-
-Database: MongoDB
-
-APIs: IMD Weather APIs, additional datasets
-
-AI/ML: Crop & soil prediction models
-
-👨‍👩‍👦 Team KriShakti07 
-
-Param – UI/UX , Backend & Coordinater 
-
-Yug – UI/UX & Backend
-
-Dishank – Frontend
-
-Vanshika – Frontend
-
-Sneha – Backend & Presentation Support
-
-Shlok -  Backend & Research
-
-🔮 Future Scope
-
-Mobile app with offline access for farmers
-
-Integration with IoT soil sensors
-
-Predictive analytics for crop yield
-
-Multilingual support for rural accessibility
+🔮 <b> Future Scope </b>
+<ul> 
+<li> Mobile app with offline access for farmers </li>
+<li> Integration with IoT soil sensors </li>
+<li> Predictive analytics for crop yield </li>
+<li> Multilingual support for rural accessibility </li>
+</ul>
 
 📜 License
 
