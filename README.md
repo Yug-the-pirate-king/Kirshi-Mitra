@@ -55,13 +55,13 @@ APIs: IMD Weather APIs, additional datasets
 
 AI/ML: Crop & soil prediction models
 
-👨‍👩‍👦 Team Krishi (Farmer)
+👨‍👩‍👦 Team KriShakti07 
 
 Param – UI/UX , Backend & Coordinater 
 
 Yug – UI/UX & Backend
 
-Dishant – Frontend
+Dishank – Frontend
 
 Vanshika – Frontend
 
