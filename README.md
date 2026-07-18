@@ -1,73 +1,64 @@
 # Kirshi-Mitra
-Always For a Better Tomorrow
-🌱 Krishi Mitra
-📌 Overview
+> Always for a Better Tomorrow.
 
-Krishi Mitra is our proposed solution for Smart India Hackathon 2025.
-This repository serves as a central hub for all research papers, documentation, features, flowcharts, tech stack, and idea submission files related to the project.
+## 🌱 Krishi Mitra
 
-The goal of Krishi Mitra is to empower farmers with a community-driven platform that integrates weather insights, crop recommendations, and collaboration features.
+### 📌 Overview
 
-📂 Repository Contents
+Krishi Mitra is the proposed solution for the **Smart India Hackathon 2025**.  
+This repository serves as the single source of truth for all project artifacts, including research papers, documentation, feature specifications, system diagrams, technology-stack details, and submission files.
 
-AI Research.pdf / docx → Research notes and references for AI integration
+The mission of Krishi Mitra is to empower farmers with a community-driven platform that combines real-time weather insights, AI-powered crop recommendations, and collaborative knowledge sharing.
 
-api.pdf → List of IMD APIs and usage details
+### 📂 Repository Contents
 
-Features.pdf → Planned features of the Krishi Mitra platform
+| File | Description |
+|---|---|
+| `AI Research.pdf` / `.docx` | Research notes and references for AI integration |
+| `api.pdf` | List of IMD APIs and usage details |
+| `Features.pdf` | Planned features of the Krishi Mitra platform |
+| `FLOWCHART.pdf` | System design and workflow diagrams |
+| `Krishi Mitra.pdf` | Concept note of the project |
+| `Tech Stack.pdf` | Technology stack details |
+| `SIH2025-IDEA.pptx` | Final idea submission PPT for Smart India Hackathon 2025 |
+| `LICENSE` | Project license |
+| `README.md` | This file |
 
-FLOWCHART.pdf → System design and workflow diagrams
+### 🚀 Problem Statement
 
-Krishi Mitra.pdf → Concept note of the project
+**AI-powered monitoring of crop health, soil condition, and pest risks using multispectral/hyperspectral imaging and sensor data** — `SIH25099`.
 
-Tech Stack.pdf → Technology stack details
+### 💡 Proposed Solution
 
-SIH2025-IDEA.pptx → Final idea submission PPT for Smart India Hackathon 2025
+1. AI-powered insights for crop health and soil condition.
+2. Weather-based alerts using IMD APIs.
+3. Community-driven discussions and knowledge sharing.
+4. Simple and accessible UI for farmers.
 
-LICENSE → Project license
+### 🛠️ Tech Stack
 
-README.md → This file
+1. **Frontend:** React.js
+2. **Backend:** Node.js / Express
+3. **Database:** MongoDB
+4. **APIs:** IMD Weather APIs, additional datasets
+5. **AI/ML:** Crop and soil prediction models
 
-🚀 Problem Statement
-AI-powered monitoring of crop health, soil condition, and pest risks using multispectral/hyperspectral imaging and sensor data - SIH25099
+### 👨‍👩‍👦 Team KriShakti07
 
-💡 <b> Proposed Solution </b>
-<ol>
-<li> AI-powered insights for crop health & soil condition </li>
-<li> Weather-based alerts using IMD APIs </li>
-<li> Community-driven discussions & knowledge sharing </li>
-<li> Simple and accessible UI for farmers </li>
-</ol>
+1. **Param** — UI/UX, Backend & Coordinator
+2. **Yug** — UI/UX & Backend
+3. **Dishank** — Frontend
+4. **Vanshika** — Frontend
+5. **Sneha** — Backend & Presentation Support
+6. **Shlok** — Backend & Research
 
+### 🔮 Future Scope
 
-🛠️ <b> Tech Stack </b> 
-<ol> 
-<li> Frontend: React.js </li>
-<li> Backend: Node.js / Express </li>
-<li> Database: MongoDB </li>
-<li> APIs: IMD Weather APIs, additional datasets </li>
-<li> AI/ML: Crop & soil prediction models </li>
-</ol>
+- Mobile app with offline access for farmers.
+- Integration with IoT soil sensors.
+- Predictive analytics for crop yield.
+- Multilingual support for rural accessibility.
 
-👨‍👩‍👦 <b> Team KriShakti07 </b>
-<ol> 
-<li> Param – UI/UX , Backend & Coordinater </li> 
-<li> Yug – UI/UX & Backend </li> 
-<li> Dishank – Frontend </li>
-<li> Vanshika – Frontend </li>  
-<li> Sneha – Backend & Presentation Support </li>
-<li> Shlok -  Backend & Research </li>
-</ol>
+### 📜 License
 
-
-🔮 <b> Future Scope </b>
-<ul> 
-<li> Mobile app with offline access for farmers </li>
-<li> Integration with IoT soil sensors </li>
-<li> Predictive analytics for crop yield </li>
-<li> Multilingual support for rural accessibility </li>
-</ul>
-
-📜 License
-
-This project is Free to use.
+This project is free to use.
